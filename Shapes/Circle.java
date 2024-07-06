@@ -1,4 +1,4 @@
-package Фигуры;
+package Shapes;
 
 public class Circle extends Figure{
 }

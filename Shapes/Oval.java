@@ -1,4 +1,4 @@
-package Фигуры;
+package Shapes;
 
 public class Oval extends Figure{
 }
